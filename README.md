@@ -1,5 +1,8 @@
 # sockets-using-python
-diff b/w udp and tcp varies in socket type
+following programs
+
 udp client and server
-udp echo client and server
+
+udp echo client and echo server
+
 tcp client and server
